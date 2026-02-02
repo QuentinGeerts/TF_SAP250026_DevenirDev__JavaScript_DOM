@@ -1,0 +1,12 @@
+.btn {
+  border-radius: 5px;
+  margin: 5px 10px;
+}
+.btn-dark {
+  background-color: #202020;
+}
+.btn-color-white {
+  color: white;
+}
+
+
